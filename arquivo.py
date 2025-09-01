@@ -1,3 +1,4 @@
 info = "nome"
 print(info)
-#um comentário
+#um comentário 
+# outro comentário
