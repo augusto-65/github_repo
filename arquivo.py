@@ -1,0 +1,2 @@
+info = "nome"
+print(info)
